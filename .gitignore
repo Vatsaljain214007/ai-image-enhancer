@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pth
+*.pb
+*.onnx
+.DS_Store
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.streamlit/
+test_*.jpg
+test_*.png
